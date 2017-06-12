@@ -1,0 +1,4 @@
+- https://github.com/libbtc/libbtc
+- https://github.com/bitcoinjs/bitcoinjs-lib
+- https://github.com/cryptocoinjs/hdkey
+- 
