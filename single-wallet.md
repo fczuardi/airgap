@@ -1,0 +1,3 @@
+- https://github.com/fczuardi/bitaddress.org
+  - upstream https://github.com/pointbiz/bitaddress.org
+  - demo site https://www.bitaddress.org/
