@@ -22,7 +22,11 @@ Derivation path usado por varias das carteiras populares, mycellium, samourai, e
   - upstream https://github.com/iancoleman/bip39
   - demo site https://iancoleman.github.io/bip39/
 
+## Command line
 
+- https://github.com/fczuardi/bip39-cli
+  - upstream https://github.com/fczuardi/bip39-cli
+  
 [bip39]: https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki
 [bip32]: https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki
 [bip44]: https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki
