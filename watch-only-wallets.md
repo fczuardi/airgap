@@ -1,3 +1,4 @@
 - https://github.com/blockcypher/bcwallet
 - https://samouraiwallet.com/sentinel.html
 - Electrum
+- copay watch only generator script https://gist.github.com/fczuardi/f0ad37c9ec748f3b0ca9bb452d1a7ca4
